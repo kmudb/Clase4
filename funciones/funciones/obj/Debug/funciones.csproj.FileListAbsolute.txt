@@ -1,0 +1,11 @@
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\bin\Debug\funciones.exe.config
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\bin\Debug\funciones.exe
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\bin\Debug\funciones.pdb
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\obj\Debug\funciones.csprojResolveAssemblyReference.cache
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\obj\Debug\funciones.Form1.resources
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\obj\Debug\funciones.Properties.Resources.resources
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\obj\Debug\funciones.csproj.GenerateResource.Cache
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\obj\Debug\funciones.exe
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\obj\Debug\funciones.pdb
+c:\users\k2m\documents\visual studio 2017\Projects\funciones\funciones\obj\Debug\funciones.Form2.resources
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\funciones\funciones\obj\Debug\funciones.csproj.CoreCompileInputs.cache
